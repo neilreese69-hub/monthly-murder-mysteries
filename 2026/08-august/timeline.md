@@ -1,81 +1,122 @@
-# CASE #001 — OFFICIAL TIMELINE
+# CASE #001 — VERIFIED TIMELINE
 
-## 8:30 p.m.
-The Founders' Dinner is underway at Hawthorne House.
-
-## 8:55 p.m.
-Arthur announces that he intends to make an important change involving the hotel.
-
-The announcement causes an argument among several guests.
-
-## 9:00 p.m.
-Dinner ends.
-
-The guests begin moving around the hotel.
-
-## 9:05 p.m.
-Arthur leaves the dining room and goes toward his private office.
-
-## 9:10 p.m.
-Margaret says she speaks with Arthur in his office.
-
-She says he is alive and angry.
-
-## 9:15 p.m.
-Daniel says he goes upstairs looking for his coat.
-
-A witness reports seeing someone carrying a blue administrative folder on the staircase shortly after this time.
-
-## 9:17 p.m.
-The hotel's downstairs telephone makes an outgoing call.
-
-The call lasts four minutes.
-
-## 9:20 p.m.
-Evelyn says she leaves the dining room to make a telephone call.
-
-## 9:21 p.m.
-The downstairs telephone call ends.
-
-## 9:25 p.m.
-Thomas says he goes outside to wait for his taxi.
-
-## 9:30 p.m.
-Thomas originally says his taxi arrived around this time.
-
-The taxi company's records later establish that the taxi did not arrive until 9:41 p.m.
-
-## 9:38 p.m.
-Laura says she discovers Arthur in his office.
-
-## 9:41 p.m.
-Thomas's taxi arrives at the front entrance.
+## The Bellweather Murder
+**Bellweather, Iowa — August 21, 2026**
 
 ---
 
-# DETECTIVE'S TIMELINE CHALLENGE
+### 8:55 p.m.
+During the Founders' Dinner, Arthur Bell announces that an important change involving Hawthorne House will soon be made public.
 
-Before reading the solution, answer these questions:
+Several people at the table become upset.
 
-### 1.
-Which statements are contradicted by independent evidence?
+### 9:00 p.m.
+Dinner ends.
 
-### 2.
-Who could have moved between the dining room, staircase, and office during the relevant period?
+### 9:05 p.m.
+Arthur goes to his private office.
 
-### 3.
-Why might someone have been carrying the blue administrative folder?
+### Approximately 9:10 p.m.
+Margaret visits Arthur.
 
-### 4.
-Which suspect has access to information contained in that folder?
+She later says Arthur was alive when she left.
 
-### 5.
-Which clues are strong evidence, and which may simply be red herrings?
+### 9:12 p.m.
+Arthur sends an email from his office computer.
 
-### Final question
+This independently establishes that Arthur was alive at 9:12.
 
-**Who was responsible for Arthur Bell's death?**
+### 9:14 p.m.
+The hotel's service sheet records:
 
-Explain your answer using at least three pieces of evidence.
+**Coffee for A.B. — L.B.**
 
-Do not open the solution until you've made your accusation.
+Laura acknowledges that the initials are hers.
+
+### Shortly after 9:15 p.m.
+A witness sees someone going upstairs carrying:
+
+- A brass tray
+- The blue administrative folder
+
+The person is wearing a **dark green cardigan**.
+
+Laura was wearing a dark green cardigan that evening.
+
+### 9:15–9:23 p.m.
+Front-entrance security footage does not show Laura in the downstairs area covered by the camera.
+
+Laura nevertheless tells investigators she remained downstairs after dinner.
+
+### 9:17 p.m.
+The downstairs hotel telephone places an outgoing call.
+
+### 9:21 p.m.
+The call ends.
+
+Evidence later confirms Evelyn made the call.
+
+### After 9:20 p.m.
+Daniel admits being upstairs for a reason different from the one he initially gave investigators.
+
+### Approximately 9:25 p.m.
+Thomas is outside near the front entrance.
+
+### 9:38 p.m.
+Arthur is discovered in his office.
+
+### 9:40 p.m.
+The brass coffee tray is found near the upstairs landing.
+
+The blue administrative folder is also recovered upstairs.
+
+### 9:41 p.m.
+Thomas's taxi arrives.
+
+---
+
+# RECONSTRUCT THE CASE
+
+Several suspects lied to investigators.
+
+That does **not** mean all of them were involved in Arthur's death.
+
+Determine which lie is independently connected to the evidence surrounding Arthur.
+
+Consider:
+
+**Opportunity**
+
+**Motive**
+
+**Physical evidence**
+
+**Documentary evidence**
+
+**Witness testimony**
+
+**Contradictions**
+
+Then make your accusation.
+
+---
+
+## WHO?
+
+____________________________________
+
+## HOW?
+
+____________________________________
+
+## WHY?
+
+____________________________________
+
+## WHAT EVIDENCE PROVES IT?
+
+____________________________________
+
+____________________________________
+
+____________________________________

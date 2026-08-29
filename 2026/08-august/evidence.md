@@ -1,137 +1,214 @@
-# CASE #001 — EVIDENCE
+# CASE #001 — FINAL EVIDENCE
 
-## Evidence Item 1 — The Office
+## Evidence Item 1 — Arthur Was Alive at 9:10
 
-Arthur was found in his private office.
+Margaret Bell spoke with Arthur in his office at approximately 9:10 p.m.
 
-The window was closed.
+Investigators confirmed part of her account because Arthur sent a short email from his office computer at **9:12 p.m.**
 
-The office door was unlocked.
-
-Investigators found no indication that an unknown person had entered the building.
+This establishes that Arthur was alive at that time.
 
 ---
 
-## Evidence Item 2 — The Two Clocks
+## Evidence Item 2 — Arthur's Coffee
 
-There are two clocks relevant to the investigation.
+A coffee cup was found on Arthur's desk.
 
-### Hallway clock
-The hallway clock was found to be **six minutes fast**.
+Investigators determined that Arthur had been given coffee shortly before his death.
 
-### Office clock
-The clock inside Arthur's office was found to be **eleven minutes slow**.
+Testing showed that the drink contained a deliberately added harmful substance.
 
-Investigators confirmed both clocks had been operating normally.
+For safety, the substance itself is not identified in the case materials.
 
----
-
-## Evidence Item 3 — Telephone Record
-
-The hotel's downstairs telephone made an outgoing call at:
-
-**9:17 p.m.**
-
-The call lasted:
-
-**4 minutes**
-
-The call was made from the hotel's landline.
+No other coffee served that evening contained it.
 
 ---
 
-## Evidence Item 4 — Evelyn's Phone
+## Evidence Item 3 — The Coffee Service
 
-Evelyn said she used her mobile phone to make her 9:20 call.
+Hawthorne House used a handwritten service sheet whenever drinks were prepared after a private event.
 
-Investigators checked her phone.
+The sheet for that evening reads:
 
-There was **no outgoing call** from Evelyn's phone during the relevant period.
+**9:14 p.m. — Coffee for A.B.**
 
----
+Beside the entry are the initials:
 
-## Evidence Item 5 — The Staircase
+**L.B.**
 
-A hotel employee who had already left the dinner area reported seeing someone on the staircase shortly after 9:15 p.m.
+Laura Bennett confirms those are her initials.
 
-The person was carrying a **blue folder**.
-
-The employee could not clearly identify the person's face.
+She says she prepared the coffee but insists she left it downstairs for someone else to deliver.
 
 ---
 
-## Evidence Item 6 — Daniel's Coat
+## Evidence Item 4 — The Missing Tray
 
-Daniel said he went upstairs because he believed his coat was there.
+Coffee sent to Arthur's office was normally carried upstairs on a small brass tray.
 
-The coat was later found:
+At 9:40 p.m., investigators found that tray on a table near the upstairs landing.
 
-**In the dining room.**
-
-Daniel had apparently left it there earlier.
+Laura says she does not know how it got there.
 
 ---
 
-## Evidence Item 7 — Thomas's Taxi
+## Evidence Item 5 — The Staircase Witness
 
-Thomas said his taxi arrived around 9:30 p.m.
+A witness saw someone walking upstairs shortly after 9:15 p.m.
 
-The taxi company's electronic record shows:
+The person was carrying:
 
-**Arrival: 9:41 p.m.**
+- A blue administrative folder
+- A small brass tray
 
-The driver confirms that Thomas was picked up near the front entrance.
+The witness remembers that the person wore a **dark green cardigan**.
 
----
-
-## Evidence Item 8 — The Schedule Book
-
-Hawthorne House kept an internal schedule book.
-
-Laura Bennett was responsible for maintaining it.
-
-An entry for Saturday morning reads:
-
-**8:00 a.m. — Meeting with Arthur — L.B.**
-
-Laura confirms that the initials are hers.
+Laura was wearing a dark green cardigan that evening.
 
 ---
 
-## Evidence Item 9 — The Blue Folder
+## Evidence Item 6 — Laura's Statement
 
-The hotel's blue administrative folder normally contained the current week's schedules and staff information.
+Laura told investigators:
 
-Laura was responsible for maintaining the folder.
+**"I stayed downstairs after dinner. I never went upstairs."**
 
-The folder was discovered:
+She repeated this statement twice.
 
-**On the staircase landing.**
-
----
-
-## Evidence Item 10 — Arthur's Note
-
-On Arthur's desk was a sheet of hotel stationery.
-
-It read:
-
-**"Tomorrow. Eight o'clock."**
-
-The handwriting was confirmed to be Arthur's.
+She also said she did not speak with Arthur after dinner.
 
 ---
 
-# DETECTIVE'S CHALLENGE
+## Evidence Item 7 — The Blue Folder
 
-At this point, you should be able to identify several statements that are questionable.
+The blue administrative folder was found on the upstairs landing.
 
-But remember:
+Laura was responsible for maintaining it.
 
-**A person can lie without being the murderer.**
+Inside the folder was Hawthorne House's Saturday schedule.
 
-Your task is to find the evidence that connects:
+One entry read:
 
-**Motive + Opportunity + Contradiction + Physical Evidence**
+**8:00 a.m. — Arthur / L.B.**
 
-Do not make your final accusation until you have reconstructed the timeline.
+A handwritten note beside the appointment said:
+
+**"Replacement decision."**
+
+---
+
+## Evidence Item 8 — The Employment Letter
+
+Investigators found an unsigned letter on Arthur's desk.
+
+It stated that Hawthorne House would appoint a **new hotel manager** beginning September 1.
+
+Laura Bennett's name appeared in the section describing the outgoing manager.
+
+Arthur had not yet announced the decision publicly.
+
+---
+
+## Evidence Item 9 — Daniel's Coat
+
+Daniel claimed he went upstairs because he thought his coat was there.
+
+His coat was later found in the dining room.
+
+Daniel admits that his explanation was false.
+
+He later tells investigators that he actually went upstairs because he wanted to look for financial records Arthur had threatened to show the other guests.
+
+His lie gives him a motive to hide his actions.
+
+However, investigators found no evidence connecting Daniel to Arthur's coffee.
+
+---
+
+## Evidence Item 10 — Evelyn's Phone Call
+
+Evelyn originally claimed she used her mobile phone.
+
+That was false.
+
+Telephone records show that the hotel's downstairs landline placed a four-minute call beginning at **9:17 p.m.**
+
+Evelyn later admits she made that call.
+
+A check of the number confirms that it was a personal call unrelated to Arthur.
+
+Her lie concealed something embarrassing, but it did not place her upstairs.
+
+---
+
+## Evidence Item 11 — Thomas's Taxi
+
+Thomas originally said his taxi arrived around 9:30.
+
+The taxi company's electronic record shows the actual arrival time was:
+
+**9:41 p.m.**
+
+Thomas later admits he deliberately gave the wrong time because he had been outside speaking privately with a source for his newspaper.
+
+The taxi driver confirms seeing Thomas outside before the pickup.
+
+---
+
+## Evidence Item 12 — The Hallway Camera
+
+Hawthorne House did not have cameras inside guest areas.
+
+However, a security camera covered the front entrance.
+
+Its footage confirms:
+
+- Thomas was outside during part of the critical period.
+- Evelyn was visible near the front desk shortly before the landline call.
+- Laura was not visible downstairs between approximately **9:15 and 9:23 p.m.**
+
+The camera does not show the staircase itself.
+
+---
+
+# WHAT THE DETECTIVE MUST EXPLAIN
+
+Several people lied.
+
+But only one suspect's lie connects directly to:
+
+- Arthur's coffee
+- The service record
+- The brass tray
+- The staircase witness
+- The blue folder
+- The employment decision
+- An unexplained absence from downstairs
+
+Your job is to separate a suspicious lie from a lie that is supported by physical evidence.
+
+---
+
+# FINAL QUESTIONS
+
+## WHO was responsible?
+
+____________________________________
+
+## WHY?
+
+____________________________________
+
+## HOW?
+
+____________________________________
+
+## Which three clues prove your accusation?
+
+1. __________________________________
+
+2. __________________________________
+
+3. __________________________________
+
+Do not open the solution until you have committed to an answer.

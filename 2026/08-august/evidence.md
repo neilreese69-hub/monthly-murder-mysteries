@@ -171,6 +171,65 @@ The camera does not show the staircase itself.
 
 ---
 
+## Evidence Item 13 — The Coffee Preparation Record
+
+Hawthorne House's kitchen kept a preparation log for private-event drink orders.
+
+Investigators compared the service log with statements from the remaining staff.
+
+Arthur's coffee was prepared separately from the other drinks that evening.
+
+The kitchen assistant placed Arthur's plain coffee on the brass tray at approximately **9:13 p.m.**
+
+The assistant states:
+
+**"There was nothing unusual about the coffee when I put it on the tray. Laura told me she would finish Arthur's order herself."**
+
+Laura then asked the assistant to leave the preparation area.
+
+The assistant remembers this because Laura normally allowed staff to complete drink service themselves.
+
+The assistant returned several minutes later.
+
+By then:
+
+- Laura was gone.
+- Arthur's coffee was gone.
+- The brass tray was gone.
+- The blue administrative folder was no longer at the front desk.
+
+Investigators found no evidence that another suspect entered the preparation area during that interval.
+
+---
+
+## Evidence Item 14 — Arthur's Usual Order
+
+Three Hawthorne House employees independently confirm that Arthur always drank his evening coffee plain.
+
+He did not normally add anything to it.
+
+The kitchen assistant confirms that the cup contained only plain coffee when it was placed on the tray.
+
+This means the harmful substance was introduced **after the kitchen assistant prepared the drink**.
+
+---
+
+## Evidence Item 15 — Access Window
+
+Investigators reconstructed access to the coffee between preparation and delivery.
+
+The evidence establishes:
+
+1. The kitchen assistant prepared plain coffee.
+2. Laura took responsibility for finishing Arthur's order.
+3. Laura sent the assistant away.
+4. No other suspect was documented entering the preparation area during that interval.
+5. Laura's initials appear on Arthur's service entry.
+6. Someone matching Laura's clothing was then seen carrying the tray upstairs.
+7. Laura later denied ever going upstairs.
+
+The detective must decide whether these facts, combined with the rest of the case, establish responsibility.
+
 # WHAT THE DETECTIVE MUST EXPLAIN
 
 Several people lied.
